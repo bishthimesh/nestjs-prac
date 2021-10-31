@@ -1,0 +1,24 @@
+{
+  "name": "nestjs-prac",
+  "version": "1.0.0",
+  "description": "nestjs-prac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bishthimesh/nestjs-prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bishthimesh/nestjs-prac/issues"
+  },
+  "homepage": "https://github.com/bishthimesh/nestjs-prac#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
